@@ -1,0 +1,10 @@
+setup.py
+pyntube/__init__.py
+pyntube.egg-info/PKG-INFO
+pyntube.egg-info/SOURCES.txt
+pyntube.egg-info/dependency_links.txt
+pyntube.egg-info/requires.txt
+pyntube.egg-info/top_level.txt
+pyntube/client/WatchClient.py
+pyntube/client/__init__.py
+pyntube/server/__init__.py
