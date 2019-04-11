@@ -1,4 +1,6 @@
 requests
 flask
-pyqt5
-PyQt4-4.11.4-cp36-cp36m-win_amd64.whl
+requests
+opencv_python
+numpy
+win32api

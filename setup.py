@@ -21,6 +21,11 @@ setuptools.setup(
     install_requires=[
         "requests",
         "flask",
-        "requests"
+        "requests",
+        "opencv_python",
+        "numpy",
+        "mss",
+        "pillow",
+        "pyaudio"
     ]
 )
